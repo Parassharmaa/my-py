@@ -1,2 +1,2 @@
 # my-py
-My python basic programs collection, built via learning.
+`Basic python programs collection, built while learning python.`
